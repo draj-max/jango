@@ -1,3 +1,6 @@
+# Django Backend – Employee MS
+> Backend service built with **Django + Django REST Framework**, designed for **LAN development**, frontend integration, and future production deployment.
+
 
 
 ## Setup Instructions
@@ -83,5 +86,3 @@ Access from same Wi-Fi:
 ```
 http://<your-local-ip>:8888
 ```
-
----
